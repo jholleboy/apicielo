@@ -1,12 +1,8 @@
 ## Projeto Api Cielo pagamento
 
-Projeto Cielo pagamento com 1 tabelas estruturada por mim, 
-
-laravel/framework: 10.10, 
-php: 8.1
-guzzlehttp/guzzle: 7.2
-
-- Pagamento - Adiciona Pagamentos Consumidos da Api Cielo
+- laravel/framework: 10.10
+- php: 8.1
+- guzzlehttp/guzzle: 7.2
 
 
 ## Front-end
@@ -16,6 +12,8 @@ guzzlehttp/guzzle: 7.2
 
 ## Banco de Dados
 para a instalação do banco de dados basta rodar as migrates!
+- Projeto Cielo pagamento com 1 tabelas estruturada por mim, 
+- Pagamento - Adiciona Pagamentos Consumidos da Api Cielo
 
 
 Joseph Costa @ 2023.
